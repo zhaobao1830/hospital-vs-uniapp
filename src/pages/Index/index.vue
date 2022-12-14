@@ -2,7 +2,7 @@
   <view class="content">
 		<image class="logo" src="/static/logo.png"></image>
 		<view class="text-area">
-			<text class="title">1{{title}}</text>
+			<text class="title">{{title}}</text>
 		</view>
 	</view>
 </template>
@@ -38,10 +38,10 @@ export default {
       display: flex;
       justify-content: center;
       .title {
-      font-size: 36rpx;
-      color: #8f8f94;
-	  }
-	}
+        font-size: 36rpx;
+        color: #8f8f94;
+	    }
+  	}
 	}
 
 	
