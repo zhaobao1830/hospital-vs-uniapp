@@ -1,19 +1,7 @@
 # hospital-vs-uniapp
 
-## Project setup
-```
-yarn install
-```
+引入uviewui组件
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+参考地址：[https://www.uviewui.com/components/npmSetting.html](https://www.uviewui.com/components/npmSetting.html)
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
